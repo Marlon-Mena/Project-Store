@@ -6,15 +6,15 @@
             <input type="text" name="nome" class="from control">
     </div>
     <div class="mb-3">
-        <label>E-mail</label>
+        <label>E-mail:</label>
             <input type="email" name="email" class="from control">
     </div>
     <div class="mb-3">
-        <label>Senha</label>
+        <label>Senha:</label>
             <input type="password" name="senha" class="from control">
     </div>
     <div class="mb-3">
-        <label>Data</label>
+        <label>Data:</label>
             <input type="date" name="data_nasc" class="from control">
     </div>
     <div class="mb-3">
